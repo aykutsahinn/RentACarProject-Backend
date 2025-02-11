@@ -1,0 +1,49 @@
+C:\Users\Aykut\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Aykut\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Aykut\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Aykut\source\repos\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Aykut\source\repos\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\Desktop\MÜZİK\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Aykut\Desktop\Son Proje\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.csproj.Up2Date
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\aykut\Downloads\ReCapProject-main\ReCapProject-main\Entities\obj\Debug\netstandard2.0\Entities.pdb
