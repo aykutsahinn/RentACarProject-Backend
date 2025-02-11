@@ -19,4 +19,13 @@ Entities, DataAccess, Business, Core ve WebAPI katmanlarından oluşan araba kir
 - ✔ Car Image Ekleme desteği eklendi (03/03/2021)
 - ✔ JWT Entegrasyonu ve User Operations Claim'ler eklendi (07/03/2021)
 - ✔ Caching, Transaction ve Performance aspectleri eklendi. (11/03/2021)
+
+## UYGULAMA ARAYÜZÜ
+![Image](https://github.com/user-attachments/assets/2ec01f11-be40-4760-8c0a-1f2b783426db)
+
+## CAR OPERATIONS SCREEN
+![Image](https://github.com/user-attachments/assets/51f70746-952f-4499-af78-481ea41fb2b4)
+
+## RENT A CAR SCREEN
+![Image](https://github.com/user-attachments/assets/2bd98d28-0a0a-4753-9da5-060b9f4398d4)
  
